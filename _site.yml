@@ -4,7 +4,7 @@ navbar:
   title: "Alex Pavlakis"
   left:
     - text: "About"
-      href: About.html
+      href: about.html
   right:
     - icon: fa-envelope fa-lg
       href: alexpavlakis@gmail.com
