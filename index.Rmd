@@ -1,0 +1,9 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/alex.jpeg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+
+This is where I will write about myself.

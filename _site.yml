@@ -1,0 +1,18 @@
+name: "Alex Pavlakis"
+output_dir: "."
+navbar:
+  title: "Alex Pavlakis"
+  left:
+    - text: "About"
+      href: About.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/alexpavlakis
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alex-pavlakis-95894785/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
