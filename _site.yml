@@ -6,8 +6,6 @@ navbar:
     - text: "About"
       href: about.html
   right:
-    - icon: fa-envelope fa-lg
-      href: alexpavlakis@gmail.com
     - icon: fa-github fa-lg
       href: http://github.com/alexpavlakis
     - icon: fa-linkedin fa-lg
