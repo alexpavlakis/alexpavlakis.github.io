@@ -1,0 +1,38 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Current:
+
+* Senior Data Scientist at [ordergroove](https://www.ordergroove.com/);
+
+Previous Experience:
+
+* Quantitative Researcher at [GLG](https://glg.it/);
+* Research Manager at the [Analyst Institute](https://analystinstitute.org/); 
+* Research Associate at the [Schwartz Center for Economic Policy Analysis](https://www.economicpolicyresearch.org/).
+
+Interests:
+
+* Bayesian statistics;
+* Causal inference and randomized experiments;
+* Economics and econometrics;
+* Machine learning;
+* Polling and public opinion.
+
+Selected Research:
+
+* [Bayesian Analysis of Randomized Controlled Trials](https://www.ncbi.nlm.nih.gov/pubmed/30051507);
+* [Multilevel Modeling of Infant Mortality in India](http://www.julbautista.com.s3-website-us-east-1.amazonaws.com/BPR_india_final.pdf);
+* [Retirement Readiness of New York City's Workers](https://www.economicpolicyresearch.org/resource-library/research/retirement-readiness-of-new-york-city-s-workers)
+* [The States of Reform](https://www.economicpolicyresearch.org/images/docs/research/retirement_security/2016-1_The_states_of_Reform.pdf);
+
+Other:
+
+* [sudoku](https://github.com/alexpavlakis/sudoku): R package for solving sudoku puzzles logically (it only starts guessing when logic stops yielding results).
+
