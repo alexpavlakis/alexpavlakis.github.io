@@ -28,6 +28,7 @@ Interests:
 
 Selected Research:
 
+* [Yet-another-poll-aggregator: Forecasting the 2020 Presidential, House, and Senate elections](https://alexpavlakis.github.io/yapa/);
 * [Bayesian Analysis of Randomized Controlled Trials](https://www.ncbi.nlm.nih.gov/pubmed/30051507);
 * [Multilevel Modeling of Infant Mortality in India](http://www.julbautista.com.s3-website-us-east-1.amazonaws.com/BPR_india_final.pdf);
 * [Retirement Readiness of New York City's Workers](https://www.economicpolicyresearch.org/resource-library/research/retirement-readiness-of-new-york-city-s-workers)
