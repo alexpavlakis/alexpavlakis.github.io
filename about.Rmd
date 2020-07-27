@@ -9,10 +9,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Current:
 
-* Senior Data Scientist at [ordergroove](https://www.ordergroove.com/);
+* Senior Data Scientist at [LinkedIn](https://www.linkedin.com/in/alex-pavlakis-95894785/);
 
 Previous Experience:
 
+* Senior Data Scientist at [ordergroove](https://www.ordergroove.com/);
 * Quantitative Researcher at [GLG](https://glg.it/);
 * Research Manager at the [Analyst Institute](https://analystinstitute.org/); 
 * Research Associate at the [Schwartz Center for Economic Policy Analysis](https://www.economicpolicyresearch.org/).
@@ -34,5 +35,5 @@ Selected Research:
 
 Other:
 
-* [sudoku](https://github.com/alexpavlakis/sudoku): R package for solving sudoku puzzles logically (it only starts guessing when logic stops yielding results).
+* [sudoku](https://github.com/alexpavlakis/sudokuplyr): R package for solving sudoku puzzles.
 
